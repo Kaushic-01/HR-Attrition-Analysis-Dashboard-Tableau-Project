@@ -97,7 +97,7 @@ Key fields include:
 
 ## 🌐 Live Dashboard
 View the interactive dashboard here:  
-👉 **[HR Attrition Dashboard on Tableau Public](https://public.tableau.com/app/profile/kaushic.krishnamurthy.g/viz/Tableauproject_17621758208780/HRAnalyticsDashboard)**
+👉 **[HR Attrition Dashboard on Tableau Public](https://public.tableau.com/app/profile/kaushic.krishnamurthy.g/viz/Tableauproject_17623483295180/HRAnalyticsDashboard?publish=yes)**
 
 ---
 
