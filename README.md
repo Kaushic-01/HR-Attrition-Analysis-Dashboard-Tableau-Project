@@ -78,17 +78,17 @@ Key fields include:
 ## 🖼️ Dashboard Snapshots
 
 ### 🔷 HR Analytics Dashboard (Overview)
-![HR Analytics Dashboard](images/HR%20Analytics%20Dashboard.png)
+![HR Analytics Dashboard](images/HR_Analytics_Dashboard.png)
 
 ---
 
 ### 🔹 Department-wise Attrition
-![Department wise Attrition](images/Department%20wise%20Attrition.png)
+![Department wise Attrition](images/Department_wise_Attrition.png)
 
 ---
 
 ### 🔸 Job Satisfaction Rating by Role
-![Job Satisfaction Rating](images/Job%20Satisfaction%20Rating.png)
+![Job Satisfaction Rating](images/Job_Satisfaction_Rating.png)
 
 ---
 
