@@ -82,11 +82,6 @@ Key fields include:
 
 ---
 
-### 🔹 Department-wise Attrition
-![Department wise Attrition](images/Department_wise_Attrition.png)
-
----
-
 ### 🔸 Job Satisfaction Rating by Role
 ![Job Satisfaction Rating](images/Job_Satisfaction_Rating.png)
 
