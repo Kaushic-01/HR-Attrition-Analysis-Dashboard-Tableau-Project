@@ -1,6 +1,6 @@
-# 📊 HR Attrition Analysis Dashboard – Tableau Project
+#  HR Attrition Analysis Dashboard – Tableau Project
 
-## 🏢 Project Overview
+## Project Overview
 Employee attrition is one of the most critical challenges organizations face today.  
 This Tableau project presents an **interactive HR Analytics Dashboard** built using real HR data to analyze, monitor, and visualize **employee attrition trends**, **demographics**, and **key HR performance indicators**.
 
@@ -8,7 +8,7 @@ The dashboard provides actionable insights that help HR teams identify **high-ri
 
 ---
 
-## 📈 Objectives
+##  Objectives
 - Examine employee attrition across departments, genders, and age groups.  
 - Uncover correlations between attrition and key factors like job satisfaction, overtime, and years at the company.  
 - Provide HR leaders with a clear visual summary of workforce dynamics and risk areas.  
@@ -59,14 +59,14 @@ Key fields include:
 
 ---
 
-## ⚙️ Tools & Technologies
+##  Tools & Technologies
 - **Tableau Desktop / Tableau Public** – Data visualization and dashboard creation  
 - **Microsoft Excel** – Data source for HR records  
 - **Data Modeling in Tableau** – For KPIs and calculated metrics  
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 - The **Sales department** exhibits the highest attrition rate (20.6%).  
 - **Males (17%)** tend to leave slightly more frequently than **females (14.8%)**.  
 - **Mid-career employees (ages 25–35)** show higher attrition patterns.  
@@ -75,7 +75,7 @@ Key fields include:
 
 ---
 
-## 🖼️ Dashboard Snapshots
+##  Dashboard Snapshots
 
 ### 🔷 HR Analytics Dashboard (Overview)
 ![HR Analytics Dashboard](images/HR_Analytics_Dashboard.png)
@@ -87,7 +87,7 @@ Key fields include:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. **Download this repository** and open the `.twbx` file in **Tableau Desktop**.  
 2. If prompted, reconnect to the provided `HR Data.xlsx` dataset.  
 3. Interact with filters to explore attrition by department, gender, age, and role.  
@@ -95,13 +95,13 @@ Key fields include:
 
 ---
 
-## 🌐 Live Dashboard
+##  Live Dashboard
 View the interactive dashboard here:  
 👉 **[HR Attrition Dashboard on Tableau Public](https://public.tableau.com/app/profile/kaushic.krishnamurthy.g/viz/Tableauproject_17623483295180/HRAnalyticsDashboard?publish=yes)**
 
 ---
 
-## 🧠 Learning Outcomes
+##  Learning Outcomes
 This project demonstrates:
 - Building **interactive HR dashboards** in Tableau  
 - Applying **data storytelling** to HR analytics  
@@ -117,12 +117,12 @@ This project demonstrates:
 
 ---
 
-## 📜 License
+##  License
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## ⭐ Acknowledgements
+##  Acknowledgements
 - Dataset inspired by IBM HR Analytics Dataset (for educational purposes)  
 - Tableau Public community for visualization inspiration  
 
